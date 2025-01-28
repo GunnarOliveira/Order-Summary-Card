@@ -27,7 +27,7 @@ Welcome to the solution repository for the **Order Summary Card** challenge by [
 
 ## How to View 🚀
 
-[Click here](https://GunnarOliveira.github.io/order-summary-card/) or:
+[Click here](https://gunnaroliveira.github.io/Order-Summary-Card/) or:
 
 1. Clone this repository:
    ```bash
