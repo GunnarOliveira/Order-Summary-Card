@@ -82,7 +82,7 @@ img {
   text-decoration: none;
   border-radius: 0.5rem;
   background: hsl(245, 75%, 52%);
-  box-shadow: 0 0.625rem 1.25rem hsla(245, 75%, 52%, 0.7);
+  box-shadow: 0 0.625rem 1.25rem hsla(245, 75%, 52%, 0.35);
 }
 
 .cancel {
